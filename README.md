@@ -21,6 +21,7 @@ Parts list:
 - buzzer
 - 4-pin AUX cable
 - m3 and m4 screws
+
 Furthermore, you don't need exactly the same parts for it to work. My module uses RX5808 receivers, where the RSSI pin needs to be soldered on.
 
 3D prints:
