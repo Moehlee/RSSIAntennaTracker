@@ -21,9 +21,10 @@ Parts list:
 - buzzer
 - 4-pin AUX cable
 - m3 and m4 screws
+Furthermore, you don't need exactly the same parts for it to work. My module uses RX5808 receivers, where the RSSI pin needs to be soldered on.
 
 3D prints:
 - https://www.thingiverse.com/thing:3500798/files
   - i used dock-front and fpv-module, the dock body i modified
 - https://www.thingiverse.com/thing:1941574
-- the case i made myself 
+- the case i made myself, they are on github
