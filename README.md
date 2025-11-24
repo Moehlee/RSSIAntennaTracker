@@ -1,4 +1,4 @@
-Open-Source Antenna Tracker
+Open-Source Antenna Tracker. I added a non-commercial license, because i don't want that a company steals it.
 
 I did not Test it during flying, but i will share my experience
 
